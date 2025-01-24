@@ -1,0 +1,199 @@
+# Query: style
+# ContextLines: 1
+
+53 results - 3 files
+
+index.html:
+   11          <!-- Bootstrap Icons-->
+   12:         <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+   13          <!-- Google fonts-->
+   14:         <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700" rel="stylesheet" />
+   15:         <link href="https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic" rel="stylesheet" type="text/css" />
+   16          <!-- SimpleLightbox plugin CSS-->
+   17:         <link href="https://cdnjs.cloudflare.com/ajax/libs/SimpleLightbox/2.1.0/simpleLightbox.min.css" rel="stylesheet" />
+   18          <!-- Core theme CSS (includes Bootstrap)-->
+   19:         <link href="./styles" rel="stylesheet" />
+   20      </head>
+
+  126                      <div class="col-lg-4 col-sm-6">
+  127:                         <a class="portfolio-box" href="./financial dashboard.jpg" title="Financial dashboard" style="color: white;">
+  128                              <img class="img-fluid" src="./financial dashboard.jpg" alt="..." />
+
+  312           <!-- next row -->
+  313:          <h2 class="text-center mt-0" style="padding-top: 30px;">Data Cleaning And Analysis</h2>
+  314:          <h6 class="text-center mt-0" style="padding-top: 30px;">(Excel, SQL, Python) </h6>
+  315           <hr class="divider" />
+
+  395   <!-- next row -->
+  396:  <h2 class="text-center mt-0" style="padding-top: 30px;">Data Interpretation</h2>
+  397   <hr class="divider" />
+
+  449                              <!-- <div class="form-floating mb-3">
+  450:                                 <textarea class="form-control" id="message" type="text" placeholder="Enter your message here..." style="height: 10rem" data-sb-validations="required"></textarea>
+  451                                  <label for="message">Message</label>
+
+styles.css:
+   143    margin-bottom: 1rem;
+   144:   font-style: normal;
+   145    line-height: inherit;
+
+   300    border-color: inherit;
+   301:   border-style: solid;
+   302    border-width: 0;
+
+   362    padding: 0;
+   363:   border-style: none;
+   364  }
+
+   529  
+   530: .list-unstyled {
+   531    padding-left: 0;
+   532:   list-style: none;
+   533  }
+
+   536    padding-left: 0;
+   537:   list-style: none;
+   538  }
+
+  2216    border-color: inherit;
+  2217:   border-style: solid;
+  2218    border-width: 0;
+
+  2239    border-color: inherit;
+  2240:   border-style: solid;
+  2241    border-width: 0;
+
+  3475    text-align: left;
+  3476:   list-style: none;
+  3477    background-color: #fff;
+
+  3848    margin-bottom: 0;
+  3849:   list-style: none;
+  3850  }
+
+  3973    margin-bottom: 0;
+  3974:   list-style: none;
+  3975  }
+
+  4531    margin-bottom: 1rem;
+  4532:   list-style: none;
+  4533  }
+
+  4550    padding-left: 0;
+  4551:   list-style: none;
+  4552  }
+
+  4818  .list-group-numbered {
+  4819:   list-style-type: none;
+  4820    counter-reset: section;
+
+  5515    font-family: "Merriweather", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  5516:   font-style: normal;
+  5517    font-weight: 400;
+
+  5545    border-color: transparent;
+  5546:   border-style: solid;
+  5547  }
+
+  5617    font-family: "Merriweather", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  5618:   font-style: normal;
+  5619    font-weight: 400;
+
+  5648    border-color: transparent;
+  5649:   border-style: solid;
+  5650  }
+
+  5895    margin-left: 15%;
+  5896:   list-style: none;
+  5897  }
+
+  7242  .fst-italic {
+  7243:   font-style: italic !important;
+  7244  }
+
+  7246  .fst-normal {
+  7247:   font-style: normal !important;
+  7248  }
+
+styles.css:
+   143    margin-bottom: 1rem;
+   144:   font-style: normal;
+   145    line-height: inherit;
+
+   300    border-color: inherit;
+   301:   border-style: solid;
+   302    border-width: 0;
+
+   362    padding: 0;
+   363:   border-style: none;
+   364  }
+
+   529  
+   530: .list-unstyled {
+   531    padding-left: 0;
+   532:   list-style: none;
+   533  }
+
+   536    padding-left: 0;
+   537:   list-style: none;
+   538  }
+
+  2216    border-color: inherit;
+  2217:   border-style: solid;
+  2218    border-width: 0;
+
+  2239    border-color: inherit;
+  2240:   border-style: solid;
+  2241    border-width: 0;
+
+  3475    text-align: left;
+  3476:   list-style: none;
+  3477    background-color: #fff;
+
+  3848    margin-bottom: 0;
+  3849:   list-style: none;
+  3850  }
+
+  3973    margin-bottom: 0;
+  3974:   list-style: none;
+  3975  }
+
+  4531    margin-bottom: 1rem;
+  4532:   list-style: none;
+  4533  }
+
+  4550    padding-left: 0;
+  4551:   list-style: none;
+  4552  }
+
+  4818  .list-group-numbered {
+  4819:   list-style-type: none;
+  4820    counter-reset: section;
+
+  5515    font-family: "Merriweather", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  5516:   font-style: normal;
+  5517    font-weight: 400;
+
+  5545    border-color: transparent;
+  5546:   border-style: solid;
+  5547  }
+
+  5617    font-family: "Merriweather", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  5618:   font-style: normal;
+  5619    font-weight: 400;
+
+  5648    border-color: transparent;
+  5649:   border-style: solid;
+  5650  }
+
+  5895    margin-left: 15%;
+  5896:   list-style: none;
+  5897  }
+
+  7242  .fst-italic {
+  7243:   font-style: italic !important;
+  7244  }
+
+  7246  .fst-normal {
+  7247:   font-style: normal !important;
+  7248  }
